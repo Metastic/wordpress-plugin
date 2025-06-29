@@ -1,11 +1,18 @@
-.idea
-.history
-node_modules
-dist
-.vscode
+# WordPress
+wp-content/uploads
+wp-content/upgrade
+wp-content/backup-db
+wp-content/advanced-cache.php
+wp-content/wp-cache-config.php
+wp-config.php
+
+# Development
 .DS_Store
-*.log
-*.env
-*.tmp
-*.bak
-*.swp
+.idea
+.vscode
+node_modules
+.sass-cache
+
+# Logs
+debug.log
+error.log
