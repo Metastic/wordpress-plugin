@@ -1,0 +1,15 @@
+.meetpure-event-container {
+    border: 1px solid #eee;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.meetpure-event-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.meetpure-event-header img {
+    margin-right: 20px;
+}
